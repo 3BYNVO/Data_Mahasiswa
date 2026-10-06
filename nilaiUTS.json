@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "Octavia Putri Verene",
+        "nim": "2609116012",
+        "matkul": "Bahasa Inggris",
+        "nilai_uts": 98
+    },
+    {
+        "nama": "Fery Sugiantoro",
+        "nim": "2609116039",
+        "matkul": "Agama Islam",
+        "nilai_uts": 90
+    },
+    {
+        "nama": "Muhammad Ihsan",
+        "nim": "2609116009",
+        "matkul": "Matematika Diskrit",
+        "nilai_uts": 84
+    }
+]
